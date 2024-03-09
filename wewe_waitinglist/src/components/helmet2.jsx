@@ -1,6 +1,6 @@
 import Helmet from "react-helmet";
 
-export default function googleForm() {
+export default function NewWidget2() {
     return (
         <>
             <div
